@@ -1,4 +1,6 @@
-#ignore all hidden files and directories
+# ignore all hidden files and directories
 .*
+# ignore pycach
+__*
 # don't ignore the gitignore file itself
 !/.gitignore
