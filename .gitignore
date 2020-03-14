@@ -1,6 +1,9 @@
-# ignore all hidden files and directories
-.*
 # ignore pycach
 __*
 # don't ignore the gitignore file itself
 !/.gitignore
+
+#ignore .pytest_cache everywhere
+**/.ptest_cache
+
+
