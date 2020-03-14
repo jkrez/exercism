@@ -6,4 +6,10 @@ __*
 #ignore .pytest_cache everywhere
 **/.ptest_cache
 
+#ignore .DS_Store everywhere
+**/.DS_Store
+
+#ignore .idea everywhere
+**/.idea
+
 
